@@ -1,4 +1,5 @@
-# OcuLearn
+<span style="color: white; font-size: 60px">Ocu</span>
+<span style="color: red; font-size: 60px">Learn</span>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 
