@@ -18,7 +18,7 @@ We have created some 3D models that explain concepts in different subjects and t
 * PyAutogui
 * Fusion 360
 
-Creators
+## Creators
 * [Suyash Agarwal](https://github.com/suagar10)
 * [Vatsal Chandra](https://github.com/vatsal-chandra)
 * [Ajay Venkatesh](https://github.com/Ajay-Venky)
