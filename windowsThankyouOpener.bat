@@ -1,0 +1,1 @@
+python OBJFileLoader\objviewer.py objfiles\THANKYOU.obj
